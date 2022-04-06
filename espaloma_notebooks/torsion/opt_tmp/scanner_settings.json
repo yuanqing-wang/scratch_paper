@@ -1,0 +1,1 @@
+{"dihedrals": [[2, 0, 1, 5]], "grid_spacing": [15], "energy_decrease_thresh": 1e-05, "dihedral_ranges": [], "extra_constraints": null, "energy_upper_limit": null}

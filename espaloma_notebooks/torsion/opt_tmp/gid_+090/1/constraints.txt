@@ -1,0 +1,2 @@
+$set
+dihedral 3 1 2 6 90.0
